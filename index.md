@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 <img src="./images/wanglanjun.png" class="floatpic" width="360" height="480">
 <br>
