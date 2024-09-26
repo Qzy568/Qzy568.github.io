@@ -16,6 +16,10 @@ layout: page
 6. [03_ReAct+Agent+基础理论与项目实战](/Note_File/大模型与Agent开发实战/03_ReAct+Agent+基础理论与项目实战.md)
 7. [04_OpenAI+Assistant+API+基本理论与入门实战](/Note_File/大模型与Agent开发实战/04_OpenAI+Assistant+API+基本理论与入门实战.md)
 
+## 面试
+
+1. [美团面试](/Note_file/面经/美团面试.md)
+
 ---
 
 ## News and Updates
