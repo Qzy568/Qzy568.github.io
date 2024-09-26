@@ -12,9 +12,9 @@ layout: page
 2. [提示词工程](/Note_file/大模型学习/提示词工程.md)
 3. [Chatgpt_documentaion](/Note_file/chatgpt内容/chatgpt_documentation.md)
 4. [01\_大模型应用发展及 Agent 前沿技术趋势](/Note_file/大模型与Agent开发实战/01大模型应用发展及Agent前沿技术趋势.md)
-5. [02\_AI+Agent 应用类型及 Function+Calling 开发实战](/Note_File/大模型与Agent开发实战/02AI+Agent应用类型及Function+Calling开发实战.md)
-6. [03\_ReAct+Agent+基础理论与项目实战](/Note_File/大模型与Agent开发实战/03ReAct+Agent+基础理论与项目实战.md)
-7. [04_OpenAI+Assistant+API+基本理论与入门实战](/Note_File/大模型与Agent开发实战/04OpenAI+Assistant+API+基本理论与入门实战.md)
+5. [02\_AI+Agent 应用类型及 Function+Calling 开发实战](/Note_File/大模型与Agent开发实战/02AI\+Agent应用类型及Function\+Calling开发实战.md)
+6. [03\_ReAct+Agent+基础理论与项目实战](/Note_File/大模型与Agent开发实战/03ReAct\+Agent\+基础理论与项目实战.md)
+7. [04_OpenAI+Assistant+API+基本理论与入门实战](/Note_File/大模型与Agent开发实战/04OpenAI\+Assistant\+API+基本理论与入门实战.md)
 
 ## 面试
 
